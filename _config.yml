@@ -1,0 +1,10 @@
+title: J. Jefrine Juliana
+description: Law Student | Corporate Litigation | Intellectual Property Law
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+include:
+  - style.css
